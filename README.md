@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is John.
 
 <!--
 **jsee4/jsee4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
